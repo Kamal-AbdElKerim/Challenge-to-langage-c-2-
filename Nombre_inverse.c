@@ -10,7 +10,7 @@ int main()
    
    while (nbr != 0)
    {
-      NbrInverse = NbrInverse * 10;
+      NbrInverse = NbrInverse * 100;
       NbrInverse = NbrInverse + nbr%10;
       nbr = nbr/10;
    }
