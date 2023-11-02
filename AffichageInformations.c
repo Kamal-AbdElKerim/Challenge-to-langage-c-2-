@@ -13,7 +13,7 @@ int main() {
     scanf("%s", prenom);
 
     printf("Sexe : ");
-    scanf("%s", sexe);
+    scanf("%s", sexe);cc
 
     printf("age : ");
     scanf("%d", &age);
